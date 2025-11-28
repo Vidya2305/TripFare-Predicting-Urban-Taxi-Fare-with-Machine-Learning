@@ -4,6 +4,8 @@
 
 **Domain:** Urban Transportation Analytics & Predictive Modeling
 
+**App Link:** https://tripfare-predicting-urban-taxi-fare-with-machine-learning-r5qm.streamlit.app/
+
 **🎯 Real-World Use Cases:**
 
 1. Ride-Hailing Services – Fare estimate before ride booking.
